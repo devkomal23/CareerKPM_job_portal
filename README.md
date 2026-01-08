@@ -24,3 +24,6 @@ This project is a high-performance Job Portal foundation built using the **MERN 
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/devkomal23/CareerKPM_job_portal.git
+=======
+# CareerKPM_job_portal
+A robust job portal foundation built using the MERN Stack (MongoDB, Express, React, Node.js). This project serves as the core infrastructure for a career platform, featuring a secure authentication system and a personalized user dashboard.
