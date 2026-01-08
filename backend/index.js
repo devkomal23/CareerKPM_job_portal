@@ -1,3 +1,12 @@
+
+/**
+ * @project      CareerKPM Job Portal - MERN Stack
+ * @author       Komal (Lead Developer)
+ * @internship   AMDOX Internship Program 2026
+ * @copyright    (c) 2026 Komal. All rights reserved.
+ * @description  Unauthorized copying or distribution of this file is strictly prohibited.
+ * This module handles [Insert Module Name, e.g., Authentication/Dashboard].
+ */
 const express = require("express");
 const mongoose = require("mongoose");
 const cors = require("cors");
